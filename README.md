@@ -9,7 +9,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 - Contact and social links
 
 ## 📢 Live Site
-[Click here to view my portfolio](https://YOUR_USERNAME.github.io/portfolio)
+[Click here to view my portfolio](https://AdityaSomasagar.github.io/portfolio)
 
 ## 🚀 Technologies
 - HTML5
